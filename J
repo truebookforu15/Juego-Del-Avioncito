@@ -1,0 +1,83 @@
+<!-- wp:heading -->
+<h2 class="wp-block-heading">1. Más que un simple pasatiempo</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Como puedes ver, varios nombres para el juego Avioncito incluyen <a href="https://es.wikipedia.org/wiki/Rayuela_(juego)" data-type="link" data-id="https://es.wikipedia.org/wiki/Rayuela_(juego)">Rayuela</a>, Hopscotch y Bebeleche. Los niños tienen nuevas ideas cuando saltan en los cuadros numerados. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Este juego no es solo para jugar: contiene lecciones ocultas que ayudan a los niños a desarrollarse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>El juego nos enseña a ser constantes y establecer objetivos. El propósito real es terminar la tarea y regresar a salvo, demostrando los altibajos de la vida. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Los jugadores adquieren la habilidad de concentrarse en cada paso sin olvidar el objetivo final. Estas habilidades son útiles para lidiar con los desafíos de la vida.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">2. Lecciones fundamentales del Avioncito</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>El equilibrio y el autocontrol son fundamentales en este juego. Los niños desarrollan el equilibrio físico al saltar, lo cual ayuda a equilibrar varias facetas de la vida. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La paciencia y la precisión mejoran al quedarse en los cuadros marcados.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En este juego, los niños aprenden las reglas y las consecuencias. Es importante que los jugadores cumplan con reglas, como no pisar las líneas o no olvidar un cuadro. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Un turno es el precio de romper las reglas. Esto demuestra que nuestras decisiones tienen un impacto en la vida. Enseña a los niños el respeto y el cumplimiento de las normas establecidas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La parte social del juego es importante. Los jugadores aprenden a esperar su turno con paciencia y sin prejuicios. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Se animan entre sí y compiten de manera amistosa, promoviendo el espíritu deportivo y el trabajo en equipo. Estos juegos nos ayudan a integrarnos y trabajar juntos.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Adaptarse es una lección clave. El diseño del juego puede cambiar, y los jugadores deben ajustarse. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Esta flexibilidad muestra la importancia de adaptarse a situaciones cambiantes en la vida y el trabajo.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Por último, Avioncito estimula la creatividad y la imaginación. Los jugadores a menudo inventan nuevas reglas o variaciones, lo que ayuda a resolver problemas y enfrentar los desafíos de la vida.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">3. El impacto duradero y la invitación a jugar</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>En general, <a href="https://juegodelavioncito.com/" data-type="page" data-id="355">Avioncito </a>tiene un gran impacto en los niños. Sus lecciones son simples pero duraderas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Así que si estás pensando en jugar, ¿por qué esperar? Los adultos también pueden disfrutarlo. Únete y comparte tus pensamientos. ¡Por favor, deja un comentario!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>¡Gracias!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
